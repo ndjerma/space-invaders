@@ -31,7 +31,7 @@ Igra koristi osnovnu game loop logiku, detekciju kolizije i manipulaciju DOM-a /
 
 1. Kloniraj repozitorij:
    ```bash
-   **git clone https://github.com/ndjerma/space-invaders.git**
+   git clone https://github.com/ndjerma/space-invaders.git
    
 2. Otvori fajl index.html u svom browseru (dvostruki klik je dovoljan).
 
