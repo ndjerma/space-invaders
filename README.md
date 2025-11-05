@@ -13,16 +13,16 @@ Igra koristi osnovnu game loop logiku, detekciju kolizije i manipulaciju DOM-a /
 ---
 
 ## 📂 Struktura projekta
-├── images/ – slike (player, enemy, pozadina)
-├── sounds/ – zvuci (pucanj, eksplozija, itd.)
-├── index.html – glavna HTML stranica igre
-├── index.js – ulazna tačka aplikacije
-├── Player.js – klasa za igrača
-├── Enemy.js – klasa za neprijatelje
-├── Bullet.js – klasa za metke
-├── EnemyController.js – kontrola neprijatelja
-├── BulletController.js – kontrola metaka
-└── MovingDirection.js – pomoćna klasa/enumeracija za pravce
+      ├── images/ – slike (player, enemy, pozadina)
+      ├── sounds/ – zvuci (pucanj, eksplozija, itd.)
+      ├── index.html – glavna HTML stranica igre
+      ├── index.js – ulazna tačka aplikacije
+      ├── Player.js – klasa za igrača
+      ├── Enemy.js – klasa za neprijatelje
+      ├── Bullet.js – klasa za metke
+      ├── EnemyController.js – kontrola neprijatelja
+      ├── BulletController.js – kontrola metaka
+      └── MovingDirection.js – pomoćna klasa/enumeracija za pravce
 
 
 ---
@@ -31,10 +31,10 @@ Igra koristi osnovnu game loop logiku, detekciju kolizije i manipulaciju DOM-a /
 
 1. Kloniraj repozitorij:
    ```bash
-   git clone https://github.com/ndjerma/space-invaders.git
+   **git clone https://github.com/ndjerma/space-invaders.git**
    
-Otvori fajl index.html u svom browseru (dvostruki klik je dovoljan).
+2. Otvori fajl index.html u svom browseru (dvostruki klik je dovoljan).
 
-Koristi ← → strelice za kretanje i Space za pucanje.
+3. Koristi ← → strelice za kretanje i Space za pucanje.
 
-Uništi sve neprijatelje i pokušaj da preživiš što duže!
+4. Uništi sve neprijatelje i pokušaj da preživiš što duže!
